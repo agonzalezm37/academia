@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ethereal-app-368818",
+  "private_key_id": "02ead0ded8d1925bb83ab684d83bbbd4e1954d94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDqG9uDNX+ldVgZ\nKLS5K3vkpPz1bbx7dg8MfDyN79jN5JG0zmropud08yIPNGo1sGo0ITu/bmErsgdN\n9qcPN6pOPrktpIUl2D5VqmSMPbXvZ0U8Mv57k6ZVGrkHcCBQlctU+WdHFerqnkxV\nzdmzHCb3P2L8e4H0PJgGl8B2b1hTVo/rGpr5w/eUZWfgWRyZEEcyFkCwQAm2FPtW\nYOkSfz1BDqVpCkHUdzBfPh7o+DH+EXTj0Ae6MUOCho+ubMT1Cgqi3xyks4EKIcD4\nlU4tOSkJvyuzGk/01H4Ksn567gjXldeEDU1Z9L5/lwxBb7antUqyFd8N07KF3tVV\n13NrS71zAgMBAAECgf9VdhDXokeW6Q+zOCUqI1wr1WfdowdX1y3xGI7Ky/ODlEAh\nZm2hseRCfm4eFB141fbwQhJ4tUoh9OSfQIFerOUA/LWhOPIexF/4wni2I2okVqOV\nJpsxWvxUVlpEWAXhLWw4IpnD/NCnm4WaItKhlt6m7LlUdnF7Wa8rFRIGO1Rsi+kD\nYUAmvsB6Suax/zA7F2QfK6k+aGrQPDvqMthQwq1kkBTtgggkWfcpWSVW4hdyIkeN\nvgkI/tZUGRWZoPTFdpCeVEKnykoVeUCyL71zUholbbMV99uw/Mt9RSKTu5TxjkWf\nILgxgiei+0EON62E32k2dCCA20ZG99ikQQb+PYUCgYEA/te9ysZspDgDFYIaY7is\nbWTCSCgzGB/Il9CuRj8Zn+jnB8eVipCH+Q6n8GjbzcE3s83DzMI4jiSTxL0BkfFk\nqIMsGntNqlHDPdqPMHkX5kRv5Vrm9ldgPcn2PPuSQQO+RYbmiSkB3eceU1j3XD8x\nGTDhISnoP8BijMPfergX508CgYEA6ywDOS1xxNymLfEraa2WkQ/Xso7pEyu3vVqN\nQjwhaMwW/dp9TW5bv9OpWIgoW38pq/Voj88xZcF2nylegw9+skBqDJ3nW1CEdNF+\nzFFsMKYf7mIwM9vuDPxYC22K5j6zIj7dqJDUskh8ctKGQ7DrF50wFhWser5Jonjb\nUyAWfp0CgYAefW9usFjVOQJdc2h23+R5XiHEglLCoyLbzxLawrftIu9pRd7Fak9q\nY++B2vnZXzGr6IVxnRcpIoUvd7GVZX02kCMZtADxzMCASQLyuLo8SZndpgeWF5Qj\nMGOunia8cpc0OFSium5Hv1woeq91sPXN3sRAtIPeBMWFs/Wr+BScDwKBgC+wiy7L\nImkTfbePUohppUDhf5I8HNPAZ9BETqUB4JyJ1pe/+Oz81io+V/cWFWkIjoDKkVuo\nXpIN+2onT30wZTbsjRTl6IbB+zpdSWNRl6j95zfGPZQmo02K1qfqnOI4EMd/DCAk\nzp0gyevW+Vc8x0/QlnHED2gMso36CDABL86ZAoGBAM1N36dU7fOmxD6alyntz43Y\nrcr8rnyrV4zNQAUqRyct7jT0oL+0tap/dbZVOZ9St0fkI0Q+lQ5V6CHSd05svtdY\n1oOWp8B+SUXiJf62B6SAoWrIkf0/QGhkZLSLAFBa+KJgUIoKWyX/oY4Pvedchj3X\nMf8vwjVn3Qkg6vXNQRqt\n-----END PRIVATE KEY-----\n",
+  "client_email": "antonio@ethereal-app-368818.iam.gserviceaccount.com",
+  "client_id": "107396017807240455983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/antonio%40ethereal-app-368818.iam.gserviceaccount.com"
+}
